@@ -20,10 +20,11 @@ requirements:
     - pip
     - python >=3.6
   run:
-    - mlflow>=1.2.0
-    - pytorch-lightning>=1.*
-    - scikit-learn>=1.*
-    - pandas>=1.2
+    - mlflow >=1.2.0
+    - pytorch-lightning >=1.*
+    - scikit-learn >=1.*
+    - pandas >=1.2
+    - ray >= 1.13.*
     - tabulate
     - toolz
     - python >=3.6
