@@ -24,7 +24,7 @@ requirements:
     - pytorch-lightning >=1.*
     - scikit-learn >=1.*
     - pandas >=1.2
-    - ray >=1.13.*
+    - ray
     - tabulate
     - toolz
     - python >=3.6
